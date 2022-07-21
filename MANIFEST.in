@@ -1,0 +1,2 @@
+include agnfinder/data/AGN_binary.pkl
+include agnfinder/data/agn_example.parquet
